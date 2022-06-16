@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60D99F9B-BAE9-40A9-9FB6-AA8EC679EDBA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuotesGenerator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD - d38093501712cfca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesGenerator.ViewController.nameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "QuotesGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leeyuseong/Documents/project/QuotesGenerator/QuotesGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD - a87d0780fafbebde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesGenerator.ViewController.nameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "QuotesGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leeyuseong/Documents/project/QuotesGenerator/QuotesGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD - b6606825ce3436cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesGenerator.ViewController.nameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "QuotesGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leeyuseong/Documents/project/QuotesGenerator/QuotesGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD - 378d853b173ceba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesGenerator.ViewController.nameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "QuotesGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leeyuseong/Documents/project/QuotesGenerator/QuotesGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD - 578020d3e687f323"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesGenerator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QuotesGenerator.ViewController"
+                  moduleName = "QuotesGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leeyuseong/Documents/project/QuotesGenerator/QuotesGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "392E74C5-D445-4616-8702-C22FDCE94FFD - 7dec1568425af32c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesGenerator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QuotesGenerator.ViewController&gt;"
+                  moduleName = "QuotesGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leeyuseong/Documents/project/QuotesGenerator/QuotesGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
